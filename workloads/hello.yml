@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: hello
-  namespace: lasample
+  namespace: gitops_lab_linux_academycourse
   labels:
     app: hello
 spec:
